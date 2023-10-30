@@ -5,7 +5,7 @@ Filipe Custodio Gonçalves e Gabriele Batista Sousa
 ## Descrição
 Esse é um trabalho solitado em aula solitado pela orientadora Aline Firmino, com objetivo de utilizar tipos diferentes de colisores.
 
-## Pesquisa sobre colisores:
+# Pesquisa sobre colisores:
 
 * __Static Collider__:
 O `Static Collider` é um componente em um GameObject que define uma área de colisão, mas não possui um Rigidbody associado. Eles são adequados para objetos que compõem a geometria do cenário e permanecem imóveis durante o jogo. Quando outros objetos com Rigidbody colidem com um Static Collider, não há transferência de forças, e o Collider estático serve principalmente como um obstáculo fixo.
@@ -30,7 +30,12 @@ O `Rigidbody Trigger Collider` é semelhante ao Rigidbody Collider, mas também 
 
 O `Kinematic Rigidbody Trigger Collider` combina as características do Kinematic Rigidbody Collider com a capacidade de agir como um gatilho. Isso significa que o objeto pode ser movido diretamente com seu Transform e, ao mesmo tempo, disparar eventos de script quando outros objetos entram na área do gatilho. É eficaz para situações em que você precisa de controle total sobre as interações físicas e eventos baseados em colisões.
 
-## Requisitos 
+# Desenvolvimento do projeto
+aqui fica o processo de desenvolvimento
+<br>
+<br>
+
+## Requisitos para instalação
 Para ver a cena é necessario o Unity com versão `2021.3.6f1`
 
 ## Instalação
