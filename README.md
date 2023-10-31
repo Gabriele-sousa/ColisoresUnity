@@ -62,3 +62,5 @@ Para criar esse projeto foi feito os seguintes passos:
 7. Criar portas com cores diferentes ligadas a botões(placas coloridas) __Kinematic RigidBody Collider__:
   <img src="img/6.png"/>
  <img src="img/3.png"/>
+
+## demonstração 
